@@ -10,6 +10,7 @@ Check out my site [HERE](https://penjoe.github.io/new-portfolio/) and other proj
 
 * HTML5 
 * CSS3 
+* JavaScript
 * jQuery 
 
 ## Versioning
